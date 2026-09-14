@@ -1,0 +1,14 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Penyimpanan Campuran\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
