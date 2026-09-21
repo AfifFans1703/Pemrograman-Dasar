@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\bin\Debug\AritmatikaSisabagi.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\bin\Debug\AritmatikaSisabagi.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\bin\Debug\AritmatikaSisabagi.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\obj\Debug\AritmatikaSisabagi.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\obj\Debug\AritmatikaSisabagi.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\obj\Debug\AritmatikaSisabagi.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaSisabagi\AritmatikaSisabagi\obj\Debug\AritmatikaSisabagi.pdb

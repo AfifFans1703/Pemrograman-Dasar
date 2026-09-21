@@ -1,0 +1,8 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\bin\Debug\IncrementDecrement.cs.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\bin\Debug\IncrementDecrement.cs.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\bin\Debug\IncrementDecrement.cs.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\obj\Debug\IncrementDecrement.cs.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\obj\Debug\IncrementDecrement.cs.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\obj\Debug\IncrementDecrement.cs.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\obj\Debug\IncrementDecrement.cs.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\IncrementDecrement.cs\IncrementDecrement.cs\obj\Debug\IncrementDecrement.cs.exe.config

@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\bin\Debug\AritmatikaPerkalian.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPerkalian\AritmatikaPerkalian\obj\Debug\AritmatikaPerkalian.pdb

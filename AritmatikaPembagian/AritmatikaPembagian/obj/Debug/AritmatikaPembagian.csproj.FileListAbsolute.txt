@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\bin\Debug\AritmatikaPembagian.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\bin\Debug\AritmatikaPembagian.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\bin\Debug\AritmatikaPembagian.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\obj\Debug\AritmatikaPembagian.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\obj\Debug\AritmatikaPembagian.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\obj\Debug\AritmatikaPembagian.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPembagian\AritmatikaPembagian\obj\Debug\AritmatikaPembagian.pdb
