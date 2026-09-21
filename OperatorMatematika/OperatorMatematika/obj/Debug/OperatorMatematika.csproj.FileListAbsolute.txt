@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\bin\Debug\OperatorMatematika.exe.config
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\bin\Debug\OperatorMatematika.exe
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\bin\Debug\OperatorMatematika.pdb
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\obj\Debug\OperatorMatematika.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\obj\Debug\OperatorMatematika.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\obj\Debug\OperatorMatematika.exe
+C:\Users\AXIOO\source\repos\OperatorMatematika\OperatorMatematika\obj\Debug\OperatorMatematika.pdb
