@@ -1,0 +1,8 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\bin\Debug\ProgramLogika.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\bin\Debug\ProgramLogika.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\bin\Debug\ProgramLogika.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\obj\Debug\ProgramLogika.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\obj\Debug\ProgramLogika.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\obj\Debug\ProgramLogika.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\obj\Debug\ProgramLogika.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramLogika\ProgramLogika\obj\Debug\ProgramLogika.exe.config

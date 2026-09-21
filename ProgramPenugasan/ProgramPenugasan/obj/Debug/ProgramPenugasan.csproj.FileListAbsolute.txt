@@ -1,0 +1,8 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\bin\Debug\ProgramPenugasan.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\bin\Debug\ProgramPenugasan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\bin\Debug\ProgramPenugasan.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\obj\Debug\ProgramPenugasan.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\obj\Debug\ProgramPenugasan.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\obj\Debug\ProgramPenugasan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\obj\Debug\ProgramPenugasan.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPenugasan\ProgramPenugasan\obj\Debug\ProgramPenugasan.exe.config

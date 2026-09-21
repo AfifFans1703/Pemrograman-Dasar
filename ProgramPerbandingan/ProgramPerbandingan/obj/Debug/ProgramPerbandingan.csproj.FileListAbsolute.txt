@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\bin\Debug\ProgramPerbandingan.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\bin\Debug\ProgramPerbandingan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\bin\Debug\ProgramPerbandingan.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\obj\Debug\ProgramPerbandingan.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\obj\Debug\ProgramPerbandingan.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\obj\Debug\ProgramPerbandingan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\ProgramPerbandingan\ProgramPerbandingan\obj\Debug\ProgramPerbandingan.pdb
