@@ -1,0 +1,6 @@
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\bin\Debug\PenerimaSuhu.exe.config
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\bin\Debug\PenerimaSuhu.exe
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\bin\Debug\PenerimaSuhu.pdb
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\obj\Debug\PenerimaSuhu.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\obj\Debug\PenerimaSuhu.exe
+C:\Users\AXIOO\source\repos\PenerimaSuhu\PenerimaSuhu\obj\Debug\PenerimaSuhu.pdb

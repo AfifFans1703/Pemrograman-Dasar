@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\bin\Debug\ProgramKelulusanSiswa.exe.config
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\bin\Debug\ProgramKelulusanSiswa.exe
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\bin\Debug\ProgramKelulusanSiswa.pdb
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\obj\Debug\ProgramKelulusanSiswa.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\obj\Debug\ProgramKelulusanSiswa.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\obj\Debug\ProgramKelulusanSiswa.exe
+C:\Users\AXIOO\source\repos\ProgramKelulusanSiswa\ProgramKelulusanSiswa\obj\Debug\ProgramKelulusanSiswa.pdb

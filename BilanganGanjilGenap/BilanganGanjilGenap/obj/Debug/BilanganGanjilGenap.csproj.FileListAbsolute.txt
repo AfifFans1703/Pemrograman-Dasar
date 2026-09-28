@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\bin\Debug\BilanganGanjilGenap.exe.config
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\bin\Debug\BilanganGanjilGenap.exe
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\bin\Debug\BilanganGanjilGenap.pdb
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\obj\Debug\BilanganGanjilGenap.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\obj\Debug\BilanganGanjilGenap.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\obj\Debug\BilanganGanjilGenap.exe
+C:\Users\AXIOO\source\repos\BilanganGanjilGenap\BilanganGanjilGenap\obj\Debug\BilanganGanjilGenap.pdb

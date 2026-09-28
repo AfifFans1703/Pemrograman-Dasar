@@ -1,0 +1,6 @@
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\bin\Debug\ProgramKasir.exe.config
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\bin\Debug\ProgramKasir.exe
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\bin\Debug\ProgramKasir.pdb
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\obj\Debug\ProgramKasir.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\obj\Debug\ProgramKasir.exe
+C:\Users\AXIOO\source\repos\ProgramKasir\ProgramKasir\obj\Debug\ProgramKasir.pdb

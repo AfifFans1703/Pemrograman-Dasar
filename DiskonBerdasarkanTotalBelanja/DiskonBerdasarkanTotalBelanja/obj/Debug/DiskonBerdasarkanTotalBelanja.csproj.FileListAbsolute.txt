@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\obj\Debug\DiskonBerdasarkanTotalBelanja.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\obj\Debug\DiskonBerdasarkanTotalBelanja.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\bin\Debug\DiskonBerdasarkanTotalBelanja.exe.config
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\bin\Debug\DiskonBerdasarkanTotalBelanja.exe
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\bin\Debug\DiskonBerdasarkanTotalBelanja.pdb
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\obj\Debug\DiskonBerdasarkanTotalBelanja.exe
+C:\Users\AXIOO\source\repos\DiskonBerdasarkanTotalBelanja\DiskonBerdasarkanTotalBelanja\obj\Debug\DiskonBerdasarkanTotalBelanja.pdb

@@ -1,0 +1,6 @@
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\bin\Debug\MenentukanBilangan.exe.config
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\bin\Debug\MenentukanBilangan.exe
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\bin\Debug\MenentukanBilangan.pdb
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\obj\Debug\MenentukanBilangan.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\obj\Debug\MenentukanBilangan.exe
+C:\Users\AXIOO\source\repos\MenentukanBilangan\MenentukanBilangan\obj\Debug\MenentukanBilangan.pdb
