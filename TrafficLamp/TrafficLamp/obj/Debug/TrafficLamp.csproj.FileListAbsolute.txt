@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\obj\Debug\TrafficLamp.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\obj\Debug\TrafficLamp.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\bin\Debug\TrafficLamp.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\bin\Debug\TrafficLamp.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\bin\Debug\TrafficLamp.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\obj\Debug\TrafficLamp.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\TrafficLamp\TrafficLamp\obj\Debug\TrafficLamp.pdb
