@@ -1,0 +1,6 @@
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\bin\Debug\MenuPilihanSederhana.exe.config
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\bin\Debug\MenuPilihanSederhana.exe
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\bin\Debug\MenuPilihanSederhana.pdb
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\obj\Debug\MenuPilihanSederhana.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\obj\Debug\MenuPilihanSederhana.exe
+C:\Users\AXIOO\source\repos\MenuPilihanSederhana\MenuPilihanSederhana\obj\Debug\MenuPilihanSederhana.pdb
