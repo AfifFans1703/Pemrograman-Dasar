@@ -1,0 +1,6 @@
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\bin\Debug\ProgramMenuSederhana.exe.config
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\bin\Debug\ProgramMenuSederhana.exe
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\bin\Debug\ProgramMenuSederhana.pdb
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\obj\Debug\ProgramMenuSederhana.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\obj\Debug\ProgramMenuSederhana.exe
+C:\Users\AXIOO\source\repos\ProgramMenuSederhana\ProgramMenuSederhana\obj\Debug\ProgramMenuSederhana.pdb
